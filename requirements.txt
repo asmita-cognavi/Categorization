@@ -1,0 +1,9 @@
+pymongo
+python-dotenv
+pandas
+streamlit
+plotly
+streamlit-aggrid
+fuzzywuzzy 
+python-Levenshtein 
+tqdm
